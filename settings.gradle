@@ -1,0 +1,3 @@
+rootProject.name='One2TenUI'
+include ':app'
+include ':one2tenuilibrary'
